@@ -98,7 +98,7 @@
     "coveralls": "2.11.4",
     "cz-conventional-changelog": "1.1.4",
     "esdoc": "0.4.3",
-    "eslint": "1.5.1",
+    "eslint": "7.9.0",
     "fs-extra": "0.24.0",
     "ghooks": "0.3.2",
     "glob": "5.0.14",
